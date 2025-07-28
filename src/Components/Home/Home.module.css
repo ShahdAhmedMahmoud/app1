@@ -1,0 +1,17 @@
+.test{
+    background-color:#1abc9c;
+    text-align: center;
+    color: white;
+}
+
+
+.inner {
+  width: 80%;  
+}
+
+
+.inner img {
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
